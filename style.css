@@ -1,0 +1,23 @@
+nav{
+	width: 100%;
+}
+
+ul {
+	margin: auto;
+}
+
+img{
+	margin: auto;
+}
+
+.carousel-control-next, .carousel-control-prev{
+	background-color: black;
+}
+
+#produits {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex: 1;
+	margin-top: 50px;
+}
